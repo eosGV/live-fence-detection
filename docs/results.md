@@ -26,7 +26,7 @@ The model achieved an **AUC of 0.705**, indicating moderate discrimination abili
 
 The **Precision-Recall curve** suggests that the model maintains a reasonable balance between precision and recall.
 
-![Precision-Recall Curve](../figures/presision-recall-curvepng)
+![Precision-Recall Curve](../figures/presision-recall-curve.png)
 
 ## Example Predictions
 

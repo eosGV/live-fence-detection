@@ -1,5 +1,4 @@
-### notebooks/README.md
-```markdown
+
 # Notebooks
 
 This directory contains links to Google Colab notebooks that implement the Live Fence detection pipeline.
